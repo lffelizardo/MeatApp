@@ -1,10 +1,7 @@
 # Meat - Angular App Starter
+Application for study of Angular 4. This application is a module for buy of food.
 
 ## 1. Passos para começar
-
-### Clonando o Repositório
-
-`git clone https://github.com/cod3rcursos/meat-app-starter.git`
 
 ### Instalando as Dependências
 
