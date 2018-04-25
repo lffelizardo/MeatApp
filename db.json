@@ -370,5 +370,23 @@
       "restaurantId": "tasty-treats"
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "address": "Rua teste",
+      "number": "11",
+      "optionalAddress": "testando",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuID": "capp"
+        },
+        {
+          "quantity": 1,
+          "menuID": "espreso"
+        }
+      ],
+      "id": 1
+    }
+  ]
 }
