@@ -15,7 +15,6 @@ export class UserDetailComponent implements OnInit {
   }
 
   user(): User{
-    console.log(this.loginService.user)
     return this.loginService.user
   }
 
